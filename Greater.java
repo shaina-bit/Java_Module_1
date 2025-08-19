@@ -10,5 +10,6 @@ class Greater{
         } else{
             System.out.println(a + "is negative");
         }
+        in.close();
     }
 }
